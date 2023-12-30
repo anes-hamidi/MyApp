@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912305895541",
+    "project_id": "real-nyd3om",
+    "storage_bucket": "real-nyd3om.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912305895541:android:d1baca200db67af312a03c",
+        "android_client_info": {
+          "package_name": "com.mycompany.real"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbsAgffzJDC6-62omepGS0R7sjmJ7L_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
